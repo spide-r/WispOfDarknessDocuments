@@ -1,5 +1,5 @@
 # Privacy Policy for WispOfDarkness
-This Privacy Policy governs the collection, use, and sharing of personal information by WispOfDarkness, a Discord bot developed by [Developer Name]. By using WispOfDarkness, you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the collection, use, and sharing of personal information by WispOfDarkness, a Discord bot developed by spide-r. By using WispOfDarkness, you agree to the terms of this Privacy Policy.
 
 ## Information We Collect
 We Currently do not collect any personally identifiable information. We may save server ids as part of bot configuration
